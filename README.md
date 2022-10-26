@@ -2,7 +2,7 @@
 --------
 **Developer:** Tarik Alkanan (xalkan02@vutbr.cz)
 
-**Requirements**
+###Requirements
 1 - Modify Linux kernel operating system distribution.
 2 - The distribution will have a simple graphical interface.
 3 - Next, create an application that will allow running the specified application for seniors.
